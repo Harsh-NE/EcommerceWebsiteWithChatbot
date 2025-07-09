@@ -1,0 +1,1 @@
+An intelligent full-stack e-commerce platform featuring a chatbot interface for product search, filtering, recommendations, and order-related support. Built using React (frontend), Django (backend), and DistilBERT for natural language intent classification.
